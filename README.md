@@ -1,2 +1,2 @@
-# mywebsite
- 11056webdesignwinter2019
+# mywebsite-wit
+ Code for 11056 in winter 2019
